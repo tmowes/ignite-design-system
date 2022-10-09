@@ -1,1 +1,0 @@
-npm i @radix-ui/react-avatar phosphor-react
