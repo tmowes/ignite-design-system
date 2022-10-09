@@ -1,0 +1,2 @@
+import{e as t,B as r,T as i}from"./index.3201da8e.js";import{j as o}from"./jsx-runtime.2b0e2e42.js";import"./index.bb97a001.js";import"./iframe.6253a43a.js";import"./index.990d829f.js";const p={title:"Data display/Tooltip",component:t,args:{children:o(r,{children:o(i,{size:"lg",children:"Hold This"})}),content:"October 26 - Available"},argTypes:{children:{control:{type:null}}}},c={},m=["Primary"];export{c as Primary,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories.40d03716.js.map

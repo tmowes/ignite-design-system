@@ -1,0 +1,2 @@
+import{A as t}from"./index.3201da8e.js";import"./index.bb97a001.js";import"./iframe.6253a43a.js";import"./index.990d829f.js";import"./jsx-runtime.2b0e2e42.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/tmowes.png",alt:"Julio Cesar Mowes"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.6110ff2e.js.map
